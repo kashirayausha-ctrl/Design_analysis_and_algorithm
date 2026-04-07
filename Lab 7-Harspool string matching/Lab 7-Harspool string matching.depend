@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1775551205 source:c:\users\student.desktop-m2h6uuu\desktop\1ga24ad003\daa\lab 7-harspool string matching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
